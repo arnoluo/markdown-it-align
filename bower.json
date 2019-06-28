@@ -1,0 +1,29 @@
+{
+  "name": "markdown-it-align",
+  "main": "dist/markdown-it-align.js",
+  "version": "0.1.0",
+  "description": "text align plugin for markdown-it markdown parser",
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "align",
+    "tag"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/arnoluo/markdown-it-align",
+  "ignore": [
+    "**/.*",
+    "benchmark",
+    "bower_components",
+    "coverage",
+    "demo",
+    "docs",
+    "lib",
+    "node_modules",
+    "support",
+    "test",
+    "Makefile",
+    "index*"
+  ]
+}

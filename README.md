@@ -5,7 +5,9 @@
 __requires `markdown-it` v5.+__
 
 `=-- inline words(left)` => `<p><span class="align-left align">inline words(left)</span></p>`
+
 `-=- inline words(center)` => `<p><span class="align-center align">inline words(center)</span></p>`
+
 `--= inline words(right)` => `<p><span class="align-right align">inline words(right)</span></p>`
 
 ## Install

@@ -53,7 +53,7 @@ Example:
 var opt = {alignClass: 'my-class-name'};
 ```
 
-- set other align tag(Only chars not in regex keywords)
+- change align tag(Only chars not in regex keywords)
 ```js
 var opt = {
   conf: {
